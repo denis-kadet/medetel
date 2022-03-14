@@ -1,0 +1,20 @@
+{
+  "comment": "qweqweqwe",
+  "scheduled_at": "2021-05-30T10:20:00.000Z",
+  "ends_at": null,
+  "file": {},
+  "file_url": null,
+  "code": null,
+  "personal": "177",
+  "patient_attributes": {
+    "name": "qweqwe qwe ",
+    "phone": "123-12-31",
+    "email": "sadasd@asdasdasd.ru",
+    "type": null,
+    "messages": []
+  },
+  "payment_attributes": {
+    "promo_code": null,
+    "type": "Payment"
+  }
+}
