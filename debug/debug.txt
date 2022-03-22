@@ -1,0 +1,15343 @@
+time:
+14:30
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 30
+)
+
+
+time:
+14:50
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 50
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:15
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 15
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:30
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 30
+)
+
+
+time:
+10:50
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 50
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+15:20
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 20
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+15:20
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 20
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:15
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 15
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:15
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 15
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+15:25
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 25
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+15:20
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 20
+)
+
+
+time:
+8:00
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 00
+)
+
+
+time:
+15:15
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 15
+)
+
+
+time:
+8:00
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 00
+)
+
+
+time:
+15:15
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 15
+)
+
+
+time:
+8:00
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 00
+)
+
+
+time:
+15:15
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 15
+)
+
+
+time:
+8:00
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 00
+)
+
+
+time:
+15:15
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 15
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:45
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 45
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:45
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 45
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:15
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 15
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:15
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 15
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:15
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 15
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+16:20
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 20
+)
+
+
+time:
+20:20
+
+expload:
+Array
+(
+    [0] => 20
+    [1] => 20
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:20
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 20
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:20
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 20
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:15
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 15
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:15
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 15
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+11:00
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 00
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+9:30
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:30
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:30
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:40
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 40
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+12:30
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+12:30
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+12:30
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+12:30
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+17:20
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 20
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+17:20
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 20
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+17:20
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 20
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+17:20
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 20
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+8:40
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 40
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+8:40
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 40
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+8:40
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 40
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+8:40
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 40
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+8:40
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 40
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+8:40
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 40
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+8:40
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 40
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+8:40
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 40
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+16:40
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 40
+)
+
+
+time:
+19:00
+
+expload:
+Array
+(
+    [0] => 19
+    [1] => 00
+)
+
+
+time:
+16:40
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 40
+)
+
+
+time:
+19:00
+
+expload:
+Array
+(
+    [0] => 19
+    [1] => 00
+)
+
+
+time:
+16:40
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 40
+)
+
+
+time:
+19:00
+
+expload:
+Array
+(
+    [0] => 19
+    [1] => 00
+)
+
+
+time:
+16:40
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 40
+)
+
+
+time:
+19:00
+
+expload:
+Array
+(
+    [0] => 19
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:30
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:30
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:30
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:30
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 30
+)
+
+
+time:
+14:30
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+14:30
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+14:30
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+14:30
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:45
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 45
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:45
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 45
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:45
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 45
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:45
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 45
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:45
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 45
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:45
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 45
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:45
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 45
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:45
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 45
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+13:30
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 30
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:40
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 40
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:40
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 40
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:40
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 40
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:40
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 40
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:40
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 40
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:40
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 40
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:40
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 40
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:40
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 40
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+15:15
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 15
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+15:15
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 15
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+15:15
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 15
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+15:15
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 15
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+15:30
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 30
+)
+
+
+time:
+16:30
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+14:30
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 30
+)
+
+
+time:
+14:51
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 51
+)
+
+
+time:
+14:30
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 30
+)
+
+
+time:
+14:51
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 51
+)
+
+
+time:
+14:30
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 30
+)
+
+
+time:
+14:51
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 51
+)
+
+
+time:
+14:30
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 30
+)
+
+
+time:
+14:51
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 51
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:30
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:30
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:30
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+18:30
+
+expload:
+Array
+(
+    [0] => 18
+    [1] => 30
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+12:00
+
+expload:
+Array
+(
+    [0] => 12
+    [1] => 00
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+16:00
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:00
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 00
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+17:20
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 20
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+17:20
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 20
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+17:20
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 20
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+17:20
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 20
+)
+
+
+time:
+15:40
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 40
+)
+
+
+time:
+17:20
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 20
+)
+
+
+time:
+8:30
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 30
+)
+
+
+time:
+8:45
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 45
+)
+
+
+time:
+8:30
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 30
+)
+
+
+time:
+8:45
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 45
+)
+
+
+time:
+8:30
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 30
+)
+
+
+time:
+8:45
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 45
+)
+
+
+time:
+8:30
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 30
+)
+
+
+time:
+8:45
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 45
+)
+
+
+time:
+8:30
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 30
+)
+
+
+time:
+8:45
+
+expload:
+Array
+(
+    [0] => 8
+    [1] => 45
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+11:30
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 30
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+11:30
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 30
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+11:30
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 30
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+11:30
+
+expload:
+Array
+(
+    [0] => 11
+    [1] => 30
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:30
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:30
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:30
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:30
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:30
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:30
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:30
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 30
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+17:30
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 30
+)
+
+
+time:
+13:00
+
+expload:
+Array
+(
+    [0] => 13
+    [1] => 00
+)
+
+
+time:
+17:15
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 15
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+16:20
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 20
+)
+
+
+time:
+10:00
+
+expload:
+Array
+(
+    [0] => 10
+    [1] => 00
+)
+
+
+time:
+16:15
+
+expload:
+Array
+(
+    [0] => 16
+    [1] => 15
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+17:30
+
+expload:
+Array
+(
+    [0] => 17
+    [1] => 30
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+14:00
+
+expload:
+Array
+(
+    [0] => 14
+    [1] => 00
+)
+
+
+time:
+9:00
+
+expload:
+Array
+(
+    [0] => 9
+    [1] => 00
+)
+
+
+time:
+15:00
+
+expload:
+Array
+(
+    [0] => 15
+    [1] => 00
+)
+
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+01.04.2022
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+01.05.2022
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+01.04.2022
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+01.05.2022
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+01.04.2022
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+01.05.2022
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+01.06.2022
+
+getDisabledDaysDATA:
+01.06.2022
+
+getDisabledDaysID:
+01.07.2022
+
+getDisabledDaysDATA:
+01.07.2022
+
+getDisabledDaysID:
+01.08.2022
+
+getDisabledDaysDATA:
+01.08.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+01.04.2022
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+01.05.2022
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+01.06.2022
+
+getDisabledDaysDATA:
+01.06.2022
+
+getDisabledDaysID:
+01.07.2022
+
+getDisabledDaysDATA:
+01.07.2022
+
+getDisabledDaysID:
+01.08.2022
+
+getDisabledDaysDATA:
+01.08.2022
+
+getDisabledDaysID:
+01.09.2022
+
+getDisabledDaysDATA:
+01.09.2022
+
+getDisabledDaysID:
+01.10.2022
+
+getDisabledDaysDATA:
+01.10.2022
+
+getDisabledDaysID:
+01.11.2022
+
+getDisabledDaysDATA:
+01.11.2022
+
+getDisabledDaysID:
+01.12.2022
+
+getDisabledDaysDATA:
+01.12.2022
+
+getDisabledDaysID:
+01.01.2023
+
+getDisabledDaysDATA:
+01.01.2023
+
+getDisabledDaysID:
+01.02.2024
+
+getDisabledDaysDATA:
+01.02.2024
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+01.03.2025
+
+getDisabledDaysDATA:
+01.03.2025
+
+getDisabledDaysID:
+01.04.2026
+
+getDisabledDaysDATA:
+01.04.2026
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+01.05.2027
+
+getDisabledDaysDATA:
+01.05.2027
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+22.03.2022
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.06.2028
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.06.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.07.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.08.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.09.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.10.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.11.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.12.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.06.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.06.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.06.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.07.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.08.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.09.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.10.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.11.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.12.2022
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.01.2023
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.02.2024
+
+getDisabledDaysID:
+580
+
+getDisabledDaysDATA:
+01.03.2025
+
+getDisabledDaysID:
+578
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+578
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+578
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+578
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+578
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+578
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.06.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.07.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+01.06.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+01.07.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+01.08.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+01.09.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+01.10.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+01.11.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+579
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+587
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+587
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+587
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+587
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+587
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+587
+
+getDisabledDaysDATA:
+01.06.2022
+
+getDisabledDaysID:
+587
+
+getDisabledDaysDATA:
+01.07.2022
+
+getDisabledDaysID:
+587
+
+getDisabledDaysDATA:
+01.08.2022
+
+getDisabledDaysID:
+587
+
+getDisabledDaysDATA:
+01.09.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+22.03.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.04.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.05.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.06.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.07.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.08.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.09.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.10.2022
+
+getDisabledDaysID:
+596
+
+getDisabledDaysDATA:
+01.11.2022
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31637
+    [external_id] => 15351
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 16.001
+                )
+
+        )
+
+    [date_start] => 02.04.2022
+    [date_end] => 02.04.2022
+    [client_time] => 20
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31688
+    [external_id] => 15392
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 15.001
+                )
+
+        )
+
+    [date_start] => 30.04.2022
+    [date_end] => 30.04.2022
+    [client_time] => 15
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31689
+    [external_id] => 15393
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 16.001
+                )
+
+        )
+
+    [date_start] => 30.04.2022
+    [date_end] => 30.04.2022
+    [client_time] => 20
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 25611
+    [external_id] => 15267
+    [schedule] => Array
+        (
+            [6] => Array
+                (
+                    [day] => 6
+                    [hourFrom] => 9.001
+                    [hourTo] => 16.001
+                )
+
+        )
+
+    [date_start] => 27.03.2022
+    [date_end] => 27.03.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31621
+    [external_id] => 15347
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 16.001
+                )
+
+        )
+
+    [date_start] => 02.04.2022
+    [date_end] => 02.04.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31625
+    [external_id] => 15349
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 16.001
+                )
+
+        )
+
+    [date_start] => 23.04.2022
+    [date_end] => 23.04.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+960.06
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 25593
+    [external_id] => 15252
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.001
+                    [hourTo] => 17.751
+                )
+
+        )
+
+    [date_start] => 29.03.2022
+    [date_end] => 29.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+780.06
+
+workMinutesEnd:
+1065.06
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31625
+    [external_id] => 15349
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 16.001
+                )
+
+        )
+
+    [date_start] => 23.04.2022
+    [date_end] => 23.04.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+960.06
+
+time:
+
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+time:
+15:00
+
+time:
+15:20
+
+time:
+15:40
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31623
+    [external_id] => 15348
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 16.001
+                )
+
+        )
+
+    [date_start] => 16.04.2022
+    [date_end] => 16.04.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+960.06
+
+time:
+
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+time:
+15:00
+
+time:
+15:20
+
+time:
+15:40
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 9:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 9:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 10:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 10:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 10:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 11:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 11:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 11:40
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 12:00
+                )
+
+            [10] => Array
+                (
+                    [busy] => 
+                    [time] => 12:20
+                )
+
+            [11] => Array
+                (
+                    [busy] => 
+                    [time] => 12:40
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 13:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:40
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 25609
+    [external_id] => 15265
+    [schedule] => Array
+        (
+            [6] => Array
+                (
+                    [day] => 6
+                    [hourFrom] => 9.001
+                    [hourTo] => 15.334333333333
+                )
+
+        )
+
+    [date_start] => 27.03.2022
+    [date_end] => 27.03.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+920.06
+
+time:
+
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:40
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:00
+                )
+
+            [10] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:20
+                )
+
+            [11] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:40
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+        )
+
+    [evening] => Array
+        (
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 25609
+    [external_id] => 15265
+    [schedule] => Array
+        (
+            [6] => Array
+                (
+                    [day] => 6
+                    [hourFrom] => 9.001
+                    [hourTo] => 15.334333333333
+                )
+
+        )
+
+    [date_start] => 27.03.2022
+    [date_end] => 27.03.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+920.06
+
+time:
+
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:40
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:00
+                )
+
+            [10] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:20
+                )
+
+            [11] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:40
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+        )
+
+    [evening] => Array
+        (
+        )
+
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 32280
+    [external_id] => 15636
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 9.001
+                    [hourTo] => 17.501
+                )
+
+        )
+
+    [date_start] => 21.04.2022
+    [date_end] => 21.04.2022
+    [client_time] => 30
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+1050.06
+
+time:
+
+
+time:
+9:00
+
+time:
+9:30
+
+time:
+10:00
+
+time:
+10:30
+
+time:
+11:00
+
+time:
+11:30
+
+time:
+12:00
+
+time:
+12:30
+
+time:
+13:00
+
+time:
+13:30
+
+time:
+14:00
+
+time:
+14:30
+
+time:
+15:00
+
+time:
+15:30
+
+time:
+16:00
+
+time:
+16:30
+
+time:
+17:00
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 9:30
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:30
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 11:00
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 11:30
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 12:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 12:30
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:30
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24278
+    [external_id] => 15004
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.5
+                    [hourTo] => 17
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810
+
+workMinutesEnd:
+1020
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:45
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24278
+    [external_id] => 15004
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.5
+                    [hourTo] => 17
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810
+
+workMinutesEnd:
+1020
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:45
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31952
+    [external_id] => 15501
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 07.04.2022
+    [date_end] => 07.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 25611
+    [external_id] => 15267
+    [schedule] => Array
+        (
+            [6] => Array
+                (
+                    [day] => 6
+                    [hourFrom] => 9.001
+                    [hourTo] => 16.001
+                )
+
+        )
+
+    [date_start] => 27.03.2022
+    [date_end] => 27.03.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+960.06
+
+time:
+
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+time:
+15:00
+
+time:
+15:20
+
+time:
+15:40
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 11:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 11:40
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 12:00
+                )
+
+            [10] => Array
+                (
+                    [busy] => 
+                    [time] => 12:20
+                )
+
+            [11] => Array
+                (
+                    [busy] => 
+                    [time] => 12:40
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 13:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:40
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 25607
+    [external_id] => 15263
+    [schedule] => Array
+        (
+            [6] => Array
+                (
+                    [day] => 6
+                    [hourFrom] => 9.001
+                    [hourTo] => 14.251
+                )
+
+        )
+
+    [date_start] => 27.03.2022
+    [date_end] => 27.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+855.06
+
+time:
+
+
+time:
+9:00
+
+time:
+9:15
+
+time:
+9:30
+
+time:
+9:45
+
+time:
+10:00
+
+time:
+10:15
+
+time:
+10:30
+
+time:
+10:45
+
+time:
+11:00
+
+time:
+11:15
+
+time:
+11:30
+
+time:
+11:45
+
+time:
+12:00
+
+time:
+12:15
+
+time:
+12:30
+
+time:
+12:45
+
+time:
+13:00
+
+time:
+13:15
+
+time:
+13:30
+
+time:
+13:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:00
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:15
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:30
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:45
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:00
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:15
+                )
+
+            [10] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:30
+                )
+
+            [11] => Array
+                (
+                    [busy] => 1
+                    [time] => 11:45
+                )
+
+            [12] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:00
+                )
+
+            [13] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:15
+                )
+
+            [14] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:30
+                )
+
+            [15] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:45
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+        )
+
+    [evening] => Array
+        (
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24278
+    [external_id] => 15004
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.5
+                    [hourTo] => 17
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810
+
+workMinutesEnd:
+1020
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:45
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24278
+    [external_id] => 15004
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.5
+                    [hourTo] => 17
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810
+
+workMinutesEnd:
+1020
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:45
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31952
+    [external_id] => 15501
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 07.04.2022
+    [date_end] => 07.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24278
+    [external_id] => 15004
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.5
+                    [hourTo] => 17
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810
+
+workMinutesEnd:
+1020
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:45
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24278
+    [external_id] => 15004
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.5
+                    [hourTo] => 17
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810
+
+workMinutesEnd:
+1020
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:45
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31952
+    [external_id] => 15501
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 07.04.2022
+    [date_end] => 07.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24278
+    [external_id] => 15004
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.5
+                    [hourTo] => 17
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810
+
+workMinutesEnd:
+1020
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:45
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24278
+    [external_id] => 15004
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.5
+                    [hourTo] => 17
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810
+
+workMinutesEnd:
+1020
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:45
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31952
+    [external_id] => 15501
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 07.04.2022
+    [date_end] => 07.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24278
+    [external_id] => 15004
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.5
+                    [hourTo] => 17
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810
+
+workMinutesEnd:
+1020
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:45
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24278
+    [external_id] => 15004
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.5
+                    [hourTo] => 17
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810
+
+workMinutesEnd:
+1020
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:45
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31952
+    [external_id] => 15501
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 07.04.2022
+    [date_end] => 07.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31951
+    [external_id] => 15500
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 05.04.2022
+    [date_end] => 05.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31953
+    [external_id] => 15502
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 12.04.2022
+    [date_end] => 12.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31954
+    [external_id] => 15503
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 14.04.2022
+    [date_end] => 14.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31956
+    [external_id] => 15505
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 21.04.2022
+    [date_end] => 21.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31958
+    [external_id] => 15507
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 28.04.2022
+    [date_end] => 28.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31952
+    [external_id] => 15501
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 13.501
+                    [hourTo] => 17.001
+                )
+
+        )
+
+    [date_start] => 07.04.2022
+    [date_end] => 07.04.2022
+    [client_time] => 15
+)
+
+
+workMinutesStart:
+810.06
+
+workMinutesEnd:
+1020.06
+
+time:
+
+
+time:
+13:30
+
+time:
+13:45
+
+time:
+14:00
+
+time:
+14:15
+
+time:
+14:30
+
+time:
+14:45
+
+time:
+15:00
+
+time:
+15:15
+
+time:
+15:30
+
+time:
+15:45
+
+time:
+16:00
+
+time:
+16:15
+
+time:
+16:30
+
+time:
+16:45
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:30
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:45
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:15
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:30
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:45
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 15:15
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 15:30
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 15:45
+                )
+
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 16:15
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 16:30
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 16:45
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31667
+    [external_id] => 15374
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 15.667666666667
+                )
+
+        )
+
+    [date_start] => 09.04.2022
+    [date_end] => 09.04.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+940.06
+
+time:
+
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+time:
+15:00
+
+time:
+15:20
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 9:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 10:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 11:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 11:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 11:40
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:00
+                )
+
+            [10] => Array
+                (
+                    [busy] => 
+                    [time] => 12:20
+                )
+
+            [11] => Array
+                (
+                    [busy] => 
+                    [time] => 12:40
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 13:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:40
+                )
+
+        )
+
+    [evening] => Array
+        (
+        )
+
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31667
+    [external_id] => 15374
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 15.667666666667
+                )
+
+        )
+
+    [date_start] => 09.04.2022
+    [date_end] => 09.04.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+940.06
+
+time:
+
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+time:
+15:00
+
+time:
+15:20
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 9:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 10:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 11:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 11:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 11:40
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:00
+                )
+
+            [10] => Array
+                (
+                    [busy] => 
+                    [time] => 12:20
+                )
+
+            [11] => Array
+                (
+                    [busy] => 
+                    [time] => 12:40
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 13:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:40
+                )
+
+        )
+
+    [evening] => Array
+        (
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31668
+    [external_id] => 15375
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 15.667666666667
+                )
+
+        )
+
+    [date_start] => 23.04.2022
+    [date_end] => 23.04.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+940.06
+
+time:
+
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+time:
+15:00
+
+time:
+15:20
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 9:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 9:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 10:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 10:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 10:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 11:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 11:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 11:40
+                )
+
+            [9] => Array
+                (
+                    [busy] => 
+                    [time] => 12:00
+                )
+
+            [10] => Array
+                (
+                    [busy] => 
+                    [time] => 12:20
+                )
+
+            [11] => Array
+                (
+                    [busy] => 
+                    [time] => 12:40
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 13:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:40
+                )
+
+        )
+
+    [evening] => Array
+        (
+        )
+
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31667
+    [external_id] => 15374
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 15.667666666667
+                )
+
+        )
+
+    [date_start] => 09.04.2022
+    [date_end] => 09.04.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+940.06
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+time:
+15:00
+
+time:
+15:20
+
+time:
+15:40
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 9:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 10:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 11:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 11:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 11:40
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:00
+                )
+
+            [10] => Array
+                (
+                    [busy] => 
+                    [time] => 12:20
+                )
+
+            [11] => Array
+                (
+                    [busy] => 
+                    [time] => 12:40
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 13:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:40
+                )
+
+        )
+
+    [evening] => Array
+        (
+        )
+
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+)
+
+
+schedule:
+Array
+(
+    [id] => 31667
+    [external_id] => 15374
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 15.667666666667
+                )
+
+        )
+
+    [date_start] => 09.04.2022
+    [date_end] => 09.04.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+940.06
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+time:
+15:00
+
+time:
+15:20
+
+time:
+15:40
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 9:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 10:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 11:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 11:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 11:40
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:00
+                )
+
+            [10] => Array
+                (
+                    [busy] => 
+                    [time] => 12:20
+                )
+
+            [11] => Array
+                (
+                    [busy] => 
+                    [time] => 12:40
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 13:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:40
+                )
+
+        )
+
+    [evening] => Array
+        (
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24299
+    [external_id] => 15024
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 16
+                    [hourTo] => 18.666666666667
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+960
+
+workMinutesEnd:
+1120
+
+time:
+16:00
+
+time:
+16:20
+
+time:
+16:40
+
+time:
+17:00
+
+time:
+17:20
+
+time:
+17:40
+
+time:
+18:00
+
+time:
+18:20
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 18:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 18:20
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24299
+    [external_id] => 15024
+    [schedule] => Array
+        (
+            [1] => Array
+                (
+                    [day] => 1
+                    [hourFrom] => 16
+                    [hourTo] => 18.666666666667
+                )
+
+        )
+
+    [date_start] => 22.03.2022
+    [date_end] => 22.03.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+960
+
+workMinutesEnd:
+1120
+
+time:
+16:00
+
+time:
+16:20
+
+time:
+16:40
+
+time:
+17:00
+
+time:
+17:20
+
+time:
+17:40
+
+time:
+18:00
+
+time:
+18:20
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 18:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 18:20
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 24366
+    [external_id] => 15089
+    [schedule] => Array
+        (
+            [3] => Array
+                (
+                    [day] => 3
+                    [hourFrom] => 16
+                    [hourTo] => 18.666666666667
+                )
+
+        )
+
+    [date_start] => 24.03.2022
+    [date_end] => 24.03.2022
+    [client_time] => 20
+)
+
+
+workMinutesStart:
+960
+
+workMinutesEnd:
+1120
+
+time:
+16:00
+
+time:
+16:20
+
+time:
+16:40
+
+time:
+17:00
+
+time:
+17:20
+
+time:
+17:40
+
+time:
+18:00
+
+time:
+18:20
+
+out:
+Array
+(
+    [morning] => Array
+        (
+        )
+
+    [day] => Array
+        (
+        )
+
+    [evening] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 1
+                    [time] => 16:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 1
+                    [time] => 17:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 1
+                    [time] => 18:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 18:20
+                )
+
+        )
+
+)
+
+
+schedule:
+Array
+(
+    [id] => 31667
+    [external_id] => 15374
+    [schedule] => Array
+        (
+            [5] => Array
+                (
+                    [day] => 5
+                    [hourFrom] => 9.001
+                    [hourTo] => 15.667666666667
+                )
+
+        )
+
+    [date_start] => 09.04.2022
+    [date_end] => 09.04.2022
+    [client_time] => 20
+)
+
+
+scheduleDay:
+Array
+(
+    [day] => 5
+    [hourFrom] => 9.001
+    [hourTo] => 15.667666666667
+)
+
+
+workMinutesStart:
+540.06
+
+workMinutesEnd:
+940.06
+
+time:
+9:00
+
+time:
+9:20
+
+time:
+9:40
+
+time:
+10:00
+
+time:
+10:20
+
+time:
+10:40
+
+time:
+11:00
+
+time:
+11:20
+
+time:
+11:40
+
+time:
+12:00
+
+time:
+12:20
+
+time:
+12:40
+
+time:
+13:00
+
+time:
+13:20
+
+time:
+13:40
+
+time:
+14:00
+
+time:
+14:20
+
+time:
+14:40
+
+time:
+15:00
+
+time:
+15:20
+
+time:
+15:40
+
+out:
+Array
+(
+    [morning] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 9:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 1
+                    [time] => 9:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 9:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 1
+                    [time] => 10:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 10:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 11:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 
+                    [time] => 11:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 
+                    [time] => 11:40
+                )
+
+            [9] => Array
+                (
+                    [busy] => 1
+                    [time] => 12:00
+                )
+
+            [10] => Array
+                (
+                    [busy] => 
+                    [time] => 12:20
+                )
+
+            [11] => Array
+                (
+                    [busy] => 
+                    [time] => 12:40
+                )
+
+        )
+
+    [day] => Array
+        (
+            [0] => Array
+                (
+                    [busy] => 
+                    [time] => 13:00
+                )
+
+            [1] => Array
+                (
+                    [busy] => 
+                    [time] => 13:20
+                )
+
+            [2] => Array
+                (
+                    [busy] => 
+                    [time] => 13:40
+                )
+
+            [3] => Array
+                (
+                    [busy] => 
+                    [time] => 14:00
+                )
+
+            [4] => Array
+                (
+                    [busy] => 
+                    [time] => 14:20
+                )
+
+            [5] => Array
+                (
+                    [busy] => 
+                    [time] => 14:40
+                )
+
+            [6] => Array
+                (
+                    [busy] => 
+                    [time] => 15:00
+                )
+
+            [7] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:20
+                )
+
+            [8] => Array
+                (
+                    [busy] => 1
+                    [time] => 15:40
+                )
+
+        )
+
+    [evening] => Array
+        (
+        )
+
+)
+
+

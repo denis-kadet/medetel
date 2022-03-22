@@ -8,7 +8,7 @@ use App\Repositories\SchedulesRepository;
 use App\Repositories\SpecializationsRepository;
 use Bitrix\Main\DB\Exception;
 use DateTime;
-
+use Bitrix\Main\Diag\Debug;
 class ScheduleService
 {
     /**
@@ -87,7 +87,7 @@ class ScheduleService
         ];
 
         $schedule = $this->scheduleRepository->getByPersonAndDate($personId, $date);
-
+        Debug::writeToFile($schedule , 'schedule', './debug/debug.txt');
         $orders = $this->ordersRepository->getForPersonByDate($personId, $date);
         
         $ordersMapped = [];
@@ -116,12 +116,13 @@ class ScheduleService
         $scheduleDay = $schedule['schedule'][$weekDayJs];
 
         $workMinutesStart = $scheduleDay['hourFrom'] * 60;
+        Debug::writeToFile($scheduleDay , 'scheduleDay', './debug/debug.txt');
         $workMinutesEnd = $scheduleDay['hourTo'] * 60;
-
+        Debug::writeToFile($workMinutesStart , 'workMinutesStart', './debug/debug.txt');
+        Debug::writeToFile($workMinutesEnd , 'workMinutesEnd', './debug/debug.txt');
         for ($i = $workMinutesStart; $i < $workMinutesEnd; $i += $schedule['client_time']) {
-
             $time = $this->convertMinutesToTime($i);
-
+            Debug::writeToFile($time , 'time', './debug/debug.txt');
             if ($i < 780) {
                 $out['morning'][] = [
                     'busy' => isset($ordersMapped[$time]),
@@ -139,7 +140,7 @@ class ScheduleService
                 ];
             }
         }
-
+        Debug::writeToFile($out , 'out', './debug/debug.txt');
         return $out;
     }
 
