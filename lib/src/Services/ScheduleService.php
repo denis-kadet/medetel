@@ -209,7 +209,9 @@ class ScheduleService
     {
         $exploded = explode(':', $time);
         //0.001 added to fix uncorrect time when $time = **:20
+//        $secTime=$exploded[0]*3600+$exploded[1]*60+$exploded[2];
         return (float)$exploded[0] + ($exploded[1] / 60 + 0.001);
+//        return $secTime;
     }
 
     /**
