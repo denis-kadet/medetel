@@ -87,9 +87,9 @@ class ScheduleService
         ];
 
         $schedule = $this->scheduleRepository->getByPersonAndDate($personId, $date);
-
+//        Debug::writeToFile($schedule['date_start']  , 'schedule', './debug/debug.txt');
         $orders = $this->ordersRepository->getForPersonByDate($personId, $date);
-        
+//        Debug::writeToFile($orders  , 'order', './debug/debug.txt');
         $ordersMapped = [];
 
         foreach ($orders as $order) {
@@ -112,45 +112,90 @@ class ScheduleService
             return $out;
         }
 
-
         $scheduleDay = $schedule['schedule'][$weekDayJs];
 
-        $dateNow = new DateTime("now");
-        $dateFix = new DateTime("2022-03-24 17:11:00");
-        if($dateNow > $dateFix ){
-            Debug::writeToFile($scheduleDay , 'scheduleDay111', './debug/debug.txt');
-        } else {
-            Debug::writeToFile($scheduleDay , 'scheduleDay222', './debug/debug.txt');
-        }
+        $dataComp = $this->dataСomparison($schedule['date_start']);
+        $dateNow = new DateTime("28.04.2022");
+        $dateFix = new DateTime($dataComp);
 
-        $workMinutesStart = $scheduleDay['hourFrom'] * 60;
-//        Debug::writeToFile($scheduleDay , 'scheduleDay', './debug/debug.txt');
-        $workMinutesEnd = $scheduleDay['hourTo'] * 60;
-//        Debug::writeToFile($workMinutesStart , 'workMinutesStart', './debug/debug.txt');
-//        Debug::writeToFile($workMinutesEnd , 'workMinutesEnd', './debug/debug.txt');
-        for ($i = $workMinutesStart; $i < $workMinutesEnd; $i += $schedule['client_time']) {
-            $time = $this->convertMinutesToTime($i);
-//            Debug::writeToFile($time , 'time', './debug/debug.txt');
-            if ($i < 780) {
-                $out['morning'][] = [
-                    'busy' => isset($ordersMapped[$time]),
-                    'time' => $time,
-                ];
-            } elseif ($i >= 780 && $i < 960) {
-                $out['day'][] = [
-                    'busy' => isset($ordersMapped[$time]),
-                    'time' => $time,
-                ];
-            } elseif ($i >= 960) {
-                $out['evening'][] = [
-                    'busy' => isset($ordersMapped[$time]),
-                    'time' => $time,
-                ];
+      //  if($dateNow > $dateFix ){//поменять на <
+           // Debug::writeToFile($schedule , 'новая дата', './debug/debug.txt');
+if($dateNow < $dateFix){
+    $workMinutesStart = $scheduleDay['hourFrom'] / 60;
+    $workMinutesEnd = $scheduleDay['hourTo'] / 60;
+    Debug::writeToFile($workMinutesEnd  , 'workMinutesEnd', './debug/debug.txt');
+    Debug::writeToFile($workMinutesStart  , 'workMinutesStart', './debug/debug.txt');
+} else{
+    $workMinutesStart = $scheduleDay['hourFrom'] * 60;
+    $workMinutesEnd = $scheduleDay['hourTo'] * 60;
+    Debug::writeToFile($workMinutesEnd  , 'стрый end', './debug/debug.txt');
+    Debug::writeToFile($workMinutesStart  , 'старый старт', './debug/debug.txt');
+}
+
+
+
+//            Debug::writeToFile($workMinutesEnd  , 'workMinutesEnd', './debug/debug.txt');
+//            Debug::writeToFile($workMinutesStart  , 'workMinutesStart', './debug/debug.txt');
+            for ($i = $workMinutesStart; $i < $workMinutesEnd; $i += $schedule['client_time']) {
+                $time = $this->convertMinutesToTime($i);
+                if ($i < 780) {
+                    $out['morning'][] = [
+                        'busy' => isset($ordersMapped[$time]),
+                        'time' => $time,
+                    ];
+                } elseif ($i >= 780 && $i < 960) {
+                    $out['day'][] = [
+                        'busy' => isset($ordersMapped[$time]),
+                        'time' => $time,
+                    ];
+                } elseif ($i >= 960) {
+                    $out['evening'][] = [
+                        'busy' => isset($ordersMapped[$time]),
+                        'time' => $time,
+                    ];
+                }
             }
-        }
+//        } else {
+//            Debug::writeToFile($schedule , 'страрая дата', './debug/debug.txt');
+//
+//            $workMinutesStart = $scheduleDay['hourFrom'] * 60;
+//            $workMinutesEnd = $scheduleDay['hourTo'] * 60;
+//
+//            for ($i = $workMinutesStart; $i < $workMinutesEnd; $i += $schedule['client_time']) {
+//                $time = $this->convertMinutesToTime($i);
+//                Debug::writeToFile($time , 'time', './debug/debug.txt');
+//                if ($i < 780) {
+//                    $out['morning'][] = [
+//                        'busy' => isset($ordersMapped[$time]),
+//                        'time' => $time,
+//                    ];
+//                } elseif ($i >= 780 && $i < 960) {
+//                    $out['day'][] = [
+//                        'busy' => isset($ordersMapped[$time]),
+//                        'time' => $time,
+//                    ];
+//                } elseif ($i >= 960) {
+//                    $out['evening'][] = [
+//                        'busy' => isset($ordersMapped[$time]),
+//                        'time' => $time,
+//                    ];
+//                }
+//            }
+//        }
+
+
 //        Debug::writeToFile($out , 'out', './debug/debug.txt');
         return $out;
     }
+
+
+    private function dataСomparison($dataСomparison)
+        {
+            $part = explode('.', $dataСomparison); //Разбиваем на подстроки
+            $a = $part[2] . '-' . $part[1] . '-' . $part[0]; //$part[0]-это часы, $part[1]-минуты и на всякий случай $part[2]-секунды.
+            return $a;
+        }
+
 
     /**
      * @param $minutes
@@ -217,9 +262,9 @@ class ScheduleService
     {
         $exploded = explode(':', $time);
         //0.001 added to fix uncorrect time when $time = **:20
-//        $secTime=$exploded[0]*3600+$exploded[1]*60+$exploded[2];
-        return (float)$exploded[0] + ($exploded[1] / 60 + 0.001);
-//        return $secTime;
+        $secTime=$exploded[0]*3600+$exploded[1]*60+$exploded[2];
+//        return (float)$exploded[0] + ($exploded[1] / 60 + 0.001);
+        return $secTime;
     }
 
     /**
