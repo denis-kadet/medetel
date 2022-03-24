@@ -102,6 +102,7 @@ class ScheduleService
 
 
         $dateTime = DateTime::createFromFormat('d.m.Y', $date);
+        //        Debug::writeToFile($dateTime , 'dateTime', './debug/debug.txt');
         $weekDay = $dateTime->format('w');
 
         $weekDayJs = $weekDay - 1;
@@ -118,24 +119,23 @@ class ScheduleService
         $dateNow = new DateTime("28.04.2022");
         $dateFix = new DateTime($dataComp);
 
-      //  if($dateNow > $dateFix ){//поменять на <
-           // Debug::writeToFile($schedule , 'новая дата', './debug/debug.txt');
-if($dateNow < $dateFix){
-    $workMinutesStart = $scheduleDay['hourFrom'] / 60;
-    $workMinutesEnd = $scheduleDay['hourTo'] / 60;
-    Debug::writeToFile($workMinutesEnd  , 'workMinutesEnd', './debug/debug.txt');
-    Debug::writeToFile($workMinutesStart  , 'workMinutesStart', './debug/debug.txt');
-} else{
-    $workMinutesStart = $scheduleDay['hourFrom'] * 60;
-    $workMinutesEnd = $scheduleDay['hourTo'] * 60;
-    Debug::writeToFile($workMinutesEnd  , 'стрый end', './debug/debug.txt');
-    Debug::writeToFile($workMinutesStart  , 'старый старт', './debug/debug.txt');
-}
 
 
+    if(floor($scheduleDay['hourFrom']) > 24){
+        $workMinutesStart = $scheduleDay['hourFrom'] / 60;
+        $workMinutesEnd = $scheduleDay['hourTo'] / 60;
+        Debug::writeToFile($workMinutesEnd  , 'workMinutesEnd', './debug/debug.txt');
+        Debug::writeToFile($workMinutesStart  , 'workMinutesStart', './debug/debug.txt');
+        Debug::writeToFile($scheduleDay['hourFrom'] , 'scheduleDay111', './debug/debug.txt');
+    } else{
+        $workMinutesStart = $scheduleDay['hourFrom'] * 60;
+        $workMinutesEnd = $scheduleDay['hourTo'] * 60;
+        Debug::writeToFile($workMinutesEnd  , 'стрый end', './debug/debug.txt');
+        Debug::writeToFile($workMinutesStart  , 'старый старт', './debug/debug.txt');
+        Debug::writeToFile($scheduleDay , 'scheduleDay222', './debug/debug.txt');
+    }
 
-//            Debug::writeToFile($workMinutesEnd  , 'workMinutesEnd', './debug/debug.txt');
-//            Debug::writeToFile($workMinutesStart  , 'workMinutesStart', './debug/debug.txt');
+
             for ($i = $workMinutesStart; $i < $workMinutesEnd; $i += $schedule['client_time']) {
                 $time = $this->convertMinutesToTime($i);
                 if ($i < 780) {
@@ -155,44 +155,15 @@ if($dateNow < $dateFix){
                     ];
                 }
             }
-//        } else {
-//            Debug::writeToFile($schedule , 'страрая дата', './debug/debug.txt');
-//
-//            $workMinutesStart = $scheduleDay['hourFrom'] * 60;
-//            $workMinutesEnd = $scheduleDay['hourTo'] * 60;
-//
-//            for ($i = $workMinutesStart; $i < $workMinutesEnd; $i += $schedule['client_time']) {
-//                $time = $this->convertMinutesToTime($i);
-//                Debug::writeToFile($time , 'time', './debug/debug.txt');
-//                if ($i < 780) {
-//                    $out['morning'][] = [
-//                        'busy' => isset($ordersMapped[$time]),
-//                        'time' => $time,
-//                    ];
-//                } elseif ($i >= 780 && $i < 960) {
-//                    $out['day'][] = [
-//                        'busy' => isset($ordersMapped[$time]),
-//                        'time' => $time,
-//                    ];
-//                } elseif ($i >= 960) {
-//                    $out['evening'][] = [
-//                        'busy' => isset($ordersMapped[$time]),
-//                        'time' => $time,
-//                    ];
-//                }
-//            }
-//        }
 
-
-//        Debug::writeToFile($out , 'out', './debug/debug.txt');
         return $out;
     }
 
 
     private function dataСomparison($dataСomparison)
         {
-            $part = explode('.', $dataСomparison); //Разбиваем на подстроки
-            $a = $part[2] . '-' . $part[1] . '-' . $part[0]; //$part[0]-это часы, $part[1]-минуты и на всякий случай $part[2]-секунды.
+            $part = explode('.', $dataСomparison);
+            $a = $part[2] . '-' . $part[1] . '-' . $part[0];
             return $a;
         }
 
